@@ -57,7 +57,3 @@ checksum.
 - Quantity
 - Market
 - Price
-
-## Bonus
-
-All transactions are stored in a database.
